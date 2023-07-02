@@ -2,7 +2,7 @@
 * 🧶 主要使用：Go JavaScript 
 
 
-* 🚀  邮箱 3096407768@qq.com
+* 🚀  邮箱 xiaoxueshengl@qq.com
 
 
 * 🍭 🥛 [GoBat](https://github.com/Xiaoxusheng/Go-Bat)

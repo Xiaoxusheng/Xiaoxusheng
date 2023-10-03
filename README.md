@@ -15,3 +15,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xiaoxusheng&theme=blue-green">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Xiaoxusheng}&theme=blue-green">

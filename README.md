@@ -2,9 +2,6 @@
 * 🧶 主要使用：Go JavaScript 
 
 
-* 🚀  邮箱  wx06594@gmail.com
-
-
 * 🍭 🥛 [GoBat](https://github.com/Xiaoxusheng/Go-Bat)
 
 

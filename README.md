@@ -8,7 +8,7 @@
 
   <h3>⚡ NEON GHOST IN THE SHELL ⚡</h3>
 
-<img src="https://skillicons.dev/icons?i=go,js,ts,react,nextjs,tailwind,docker,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,js,git&perline=8" />
 
 </div>
 

@@ -26,4 +26,3 @@
 <!-- 底部赛博装饰 -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=80&section=footer&text=STAY+IN+THE+NEON&fontSize=20&fontColor=00FF9F" width="100%" />
 
-如何让贡献蛇生效（很重要！）

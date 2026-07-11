@@ -20,7 +20,7 @@ jobs:
           snake_color: "00FF9F"
           snake_color_range: "FF00AA,00FF9F"
 
-      - name: Commit & Push
+      - name: Push snake.svg
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update Cyberpunk Snake Animation"
+          message: "Update Cyberpunk Snake"

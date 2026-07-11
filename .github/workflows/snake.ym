@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule: [{ cron: "0 0 * * *" }]
@@ -8,12 +8,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: Xiaoxusheng
           svg_out_path: github-contribution-grid-snake.svg
-      - uses: EndBug/add-and-commit@v9
+          snake_color: "00FF9F"
+          snake_color_range: "FF00AA,00FF9F"
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
         with:
-          message: "Update snake animation"
+          message: "Update Cyberpunk Snake Animation"

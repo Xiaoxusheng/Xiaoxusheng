@@ -19,3 +19,11 @@
 - 🚀 **[GoBat](https://github.com/Xiaoxusheng/Go-Bat)**
 
 <br>
+
+<!-- 🔥 赛博朋克贡献蛇动画 🔥 -->
+<img src="https://github.com/Xiaoxusheng/Xiaoxusheng/blob/output/github-contribution-grid-snake.svg" alt="Cyberpunk Contribution Snake" width="100%" />
+
+<!-- 底部赛博装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=80&section=footer&text=STAY+IN+THE+NEON&fontSize=20&fontColor=00FF9F" width="100%" />
+
+如何让贡献蛇生效（很重要！）

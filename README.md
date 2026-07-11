@@ -20,8 +20,8 @@
 
 <br>
 
-<!-- 临时赛博朋克蛇（测试用） -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" 
+<!-- Cyberpunk Contribution Snake -->
+<img src="https://github.com/Xiaoxusheng/Xiaoxusheng/blob/master/github-contribution-grid-snake.svg" 
      alt="Cyberpunk Contribution Snake" 
      width="100%" />
 

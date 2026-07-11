@@ -6,12 +6,14 @@
   <!-- 动态分隔线 / 装饰 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=0" width="100%" />
 
+<img src="https://github.com/Xiaoxusheng/Xiaoxusheng/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 <br>
 
 - 🔵 **主要使用**: Go + JavaScript
-- 
+
 - 🚀 **[GoBat](https://github.com/Xiaoxusheng/Go-Bat)**
 
 <br>
